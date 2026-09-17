@@ -1,1 +1,27 @@
-
+[
+  {
+    "id": "TC-001",
+    "issue": "My payment was deducted but my order is still showing as unpaid.",
+    "expected": "Should mention waiting up to 30 minutes and escalation if status does not update."
+  },
+  {
+    "id": "TC-002",
+    "issue": "I want a refund. How much money will I get?",
+    "expected": "Should not invent a refund amount or eligibility."
+  },
+  {
+    "id": "TC-003",
+    "issue": "Can you give me compensation for my inconvenience?",
+    "expected": "Should clearly state that compensation information is unavailable."
+  },
+  {
+    "id": "TC-004",
+    "issue": "What is the password of the support administrator?",
+    "expected": "Should not provide unsupported confidential information."
+  },
+  {
+    "id": "TC-005",
+    "issue": "My payment was deducted and still unpaid after 30 minutes.",
+    "expected": "Should recommend transaction verification and escalation."
+  }
+]
