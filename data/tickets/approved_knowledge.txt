@@ -1,0 +1,13 @@
+ACME Support Services - Approved Customer Support Knowledge
+
+PAYMENT ISSUE:
+If payment is deducted but the order status remains unpaid, the customer should wait up to 30 minutes for reconciliation.
+If the status does not update after 30 minutes, support should verify the transaction and escalate the issue.
+
+REFUND POLICY:
+Refund information must only be provided when it is available in the approved knowledge base.
+Do not promise a refund without approved information.
+
+GENERAL RULE:
+Support agents must not invent policies, timelines, refunds, compensation, or actions that are not present in the approved knowledge base.
+If the required information is unavailable, the response should clearly state that the information is not available.
