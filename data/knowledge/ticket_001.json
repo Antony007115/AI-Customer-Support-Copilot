@@ -1,0 +1,6 @@
+{
+  "ticket_id": "TKT-001",
+  "customer_name": "Rahul",
+  "issue": "My payment was deducted but my order is still showing as unpaid.",
+  "priority": "High"
+}
